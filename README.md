@@ -11,3 +11,6 @@ ADOBE XD
 2. https://send.cm/z9f0abb2jvoa (Adobe XD for Web Design: Essential Principles for UI & UX)
 3. https://uptobox.com/6hji6pn994mp (Adobe XD Masterclass UI Design)
 4. https://downloadly.net/2020/24/14094/05/design-mobile-apps-ui%d8%8c-ux-prototyping-in-adobe-xd-ps/22/?#/14094-udemy-142139065829.html (Design Mobile Apps: UI, UX & Prototyping in Adobe XD & PS)
+
+
+https://downloadly.net/2021/02/40942/05/tailwind-css-a-new-way-to-think-css/05/?#/40942-udemy-022206014111.html
